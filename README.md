@@ -1,5 +1,5 @@
 🌟 3D Spatial Indexing with Octree & MinHash 🌟
-Welcome to the 3D Spatial Indexing project! This repository contains Python code to manage 3D point data using an Octree data structure and perform similarity search using MinHash. The project is perfect for scenarios requiring spatial queries, fast indexing, and similarity-based retrieval of large sets of 3D data!
+Welcome to the 3D Spatial Indexing project! This repository contains Python code to manage 3D point data using an Octree data structure and perform similarity search using MinHash. The project is perfect for scenarios requiring spatial queries, fast indexing, and similarity-based retrieval of large sets of 3D data.
 
 📂 Project Overview
 This repository is composed of three primary files:
